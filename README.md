@@ -2,8 +2,8 @@
 
 1. **Clone Repository:**
     ```bash
-    git clone https://bkawan/workder-demo
-    cd workker
+    git clone https://github.com/bkawan/worker-demo
+    cd worker-demo
     ```
 
 2. **Set Up Virtual Environment:**
